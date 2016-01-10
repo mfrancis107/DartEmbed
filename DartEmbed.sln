@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DartEmbed", "DartEmbed\DartEmbed.vcxproj", "{7B7F0CC3-A00C-4C2C-BE13-BE6E391670FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|64x = Debug|64x
+		Release|64x = Release|64x
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B7F0CC3-A00C-4C2C-BE13-BE6E391670FA}.Debug|64x.ActiveCfg = Debug|x64
+		{7B7F0CC3-A00C-4C2C-BE13-BE6E391670FA}.Debug|64x.Build.0 = Debug|x64
+		{7B7F0CC3-A00C-4C2C-BE13-BE6E391670FA}.Release|64x.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
